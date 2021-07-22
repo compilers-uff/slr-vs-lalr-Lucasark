@@ -4,6 +4,7 @@ Trabalho da disciplina Compiladores 2021.1
 
 Data de entrega 23/07/21
 
+Aluno: Lucas da Silva Lima - 618031150
 ## Introdução 
 
 A gramática 
